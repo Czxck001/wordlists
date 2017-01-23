@@ -11,11 +11,11 @@ Script to wash the magoosh GRE 1000 flashcards raw text into a structured JSON.
 Structured object washed from the wordlist. Basically is a map of each word in wordlist to its definition, part of speech, and example in sentences, as well as it's level and other extra informations. e.g.
 ```json
 {
-    "spartan": {
-        "example": "denial After losing everything in a fire, Tim decided to live in spartan conditions, sleeping on the floor and owning as little furniture as a possible.",
-        "part": "adjective",
-        "definition": "unsparing and uncompromising in discipline or judgment; practicing great self-",
-        "level": "Advanced Words"
-    }
+  "aberrant": {
+      "level": "Common (High-frequency) Words",
+      "definition": "markedly different from an accepted norm",
+      "part": "adjective",
+      "example": "When the financial director started screaming and throwing food at his co-workers, the police had to come in to deal with his aberrant behavior."
+  }
 }
 ```

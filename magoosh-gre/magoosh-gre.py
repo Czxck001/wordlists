@@ -5,6 +5,7 @@ Script to wash the magoosh GRE 1000 flashcards raw text into a structured JSON.
 import argparse
 import re
 import json
+from collections import OrderedDict
 parser = argparse.ArgumentParser(__doc__)
 parser.add_argument('-i', '--input',
                     help='Input raw text file path')
@@ -24,7 +25,7 @@ word_levels = {'Common (High-frequency) Words',
 
 word_definer = re.compile(r'([a-z]*) \(([a-z]*)\)\: (.*)')
 
-obj = {}  # JSON object of the wordlist
+obj = OrderedDict()  # JSON object of the wordlist
 
 with open(FLAGS.input) as f:
     for line in f:
@@ -48,15 +49,31 @@ with open(FLAGS.input) as f:
                 'level': word_level
             }
             examples = []
+
+            # sometimes the definition of the word exceeds one line. In such
+            # case we need to append the following definition lines.
+            define_finished = False
         else:
             if line == MOST_IMPORTANT:
                 obj[word]['extra'] = MOST_IMPORTANT
-            elif not line[0].isalpha():
-                obj[word]['definition'] += ' ' + line
-            elif not line.endswith('.'):
-                examples.append(line)
+                continue
+
+            if line[0].isupper():
+                # this marks the beginning of the example sentence
+                define_finished = True
+
+            if not define_finished:
+                if obj[word]['definition'].endswith('-'):
+                    # if the line is broken at '-', do not append with the
+                    # additional space (see word 'spartan')
+                    sep = ''
+                else:
+                    sep = ' '
             else:
                 examples.append(line)
-                obj[word]['example'] = ' '.join(examples)
+                if line.endswith('.'):
+                    # this mark the end of the example sentence
+                    obj[word]['example'] = ' '.join(examples)
+
 
 json.dump(obj, open(FLAGS.output, 'w'), indent=4)
