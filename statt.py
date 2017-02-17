@@ -27,9 +27,9 @@ def word_length_level(word):
     ''' group the words in terms with their lengths
     '''
     length = len(word)
-    if length <= 5:
+    if length <= 6:
         return 'short'  # short words: length <= 5
-    elif length <= 8:
+    elif length <= 9:
         return 'middle'  # middle words: 6 <= length <= 8
     else:
         return 'long'  # long words: length > 8
@@ -44,6 +44,8 @@ grouped_words['long'] = []
 for word in words:
     grouped_words[word_length_level(word)].append(word)
 
-for level, words in (grouped_words).items():
-    print(level, 'words:')
+for level, sub_words in grouped_words.items():
+    print('{} words, {} words in total ({:.2f}%)'.format(
+        level, len(sub_words), 100 * len(sub_words) / len(words)
+    ))
     print(' '.join(sorted(words)))
