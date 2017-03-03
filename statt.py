@@ -48,4 +48,4 @@ for level, sub_words in grouped_words.items():
     print('{} words, {} words in total ({:.2f}%)'.format(
         level, len(sub_words), 100 * len(sub_words) / len(words)
     ))
-    print(' '.join(sorted(words)))
+    print(' '.join(sorted(sub_words)))
