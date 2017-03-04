@@ -4,29 +4,18 @@ import fire
 class WordlistInspector:
     ''' Inspector for wordlists '''
     def statt(self, *wordlists):
-        import json
-        from util.statt import group_print
-        words = set()
-        for wordlist in wordlists:
-            with open(wordlist) as wlf:
-                wl_json = json.load(wlf)
-
-            if isinstance(wl_json, dict):
-                wordlist = wl_json.keys()
-            elif isinstance(wl_json, list):
-                wordlist = wl_json
-
-            words = words | set(wordlist)
-        group_print(words)
+        from util.statt import statt
+        statt(wordlists)
 
     def analyze(self, *wordlists):
         from util.analyze import analyze
         analyze(wordlists)
 
     def analyze_statt(self, *wordlists):
+        from functools import partial
         from util.statt import group_print
         from util.analyze import analyze
-        analyze(wordlists, group_print)
+        analyze(wordlists, partial(group_print, markdown_sharps=2))
 
 
 if __name__ == '__main__':

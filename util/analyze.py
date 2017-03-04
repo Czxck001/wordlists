@@ -1,54 +1,53 @@
 '''
 Analyze the relation of different wordlists and list the words in a
 hierarchical order.
+
+Let L = [l0, l1, ..., l(n-1)] denote the wordlists. For each word W, assign a
+bool vec B(W) of length n: if W in l(i), then B(W)(i) == 1, else B(W)(i) == 0
+for i in range of 0 to n.
+
+Then, print the words in groups of decreasing order: (1, 1, 1), (1, 1, 0), ...
+(0, 0, 1)
 '''
 
 
 def analyze(wordlist_paths, printer=None):
-    import json
     from collections import defaultdict
 
     if printer is None:
         def printer(wordgroup):
             print(' '.join(sorted(wordgroup)))
 
-    wordlists = []
-    wordcounts = defaultdict(lambda: 0)
-    maxcount = 0
+    wordsets = []
+    wordbelongs = defaultdict(lambda: [])
     allwords = set()
 
-    # load the wordlists and count the frequency of each word
+    # load the wordlists and get all the words
+    from util.common import load_wordlist
     for wordlist_path in wordlist_paths:
-        with open(wordlist_path) as f:
-            wl_json = json.load(f)
+        wordset = set(load_wordlist(wordlist_path))
+        allwords |= wordset
+        wordsets.append(wordset)
 
-        if isinstance(wl_json, dict):
-            wordlist = wl_json.keys()
-        elif isinstance(wl_json, list):
-            wordlist = wl_json
+    # get belonging of each word
+    for wordset in wordsets:
+        for word in allwords:
+            if word in wordset:
+                wordbelongs[word].append(1)
+            else:
+                wordbelongs[word].append(0)
 
-        newwords = []
-        for word in wordlist:
-            wordcounts[word] += 1
-            if maxcount < wordcounts[word]:
-                maxcount = wordcounts[word]
+    # group the words by its belonging
+    belongwords = defaultdict(lambda: [])
+    for word, belong in wordbelongs.items():
+        belongwords[tuple(belong)].append(word)
 
-            # only obtain words not included in previous wordlists
-            if word not in allwords:
-                allwords.add(word)
-                newwords.append(word)
+    # print the words in hierarchical order
+    from util.common import print_dictionaries
+    print_dictionaries(wordlist_paths)
 
-        wordlists.append(newwords)
-
-    # group, sort and print
-    for k, wordlist in enumerate(wordlists):
-        print('Wordlist {}'.format(k))
-        countwords = defaultdict(lambda: [])
-        for word in wordlist:
-            countwords[wordcounts[word]].append(word)
-        wordgroups = sorted(countwords.items(),
-                            key=lambda x: x[0],
-                            reverse=True)
-        for lv, wordgroup_kv in enumerate(wordgroups):
-            print('Level {}'.format(lv))
-            printer(wordgroup_kv[1])
+    from itertools import product
+    for hierarchical in product((1, 0), repeat=len(wordsets)):
+        if hierarchical in belongwords:
+            print('# Order: {}'.format(hierarchical))
+            printer(belongwords[hierarchical])

@@ -16,7 +16,7 @@ def word_length_level(word):
         return 'long'  # long words: length > 8
 
 
-def group_print(words):
+def group_print(words, markdown_sharps=1):
     from collections import OrderedDict
     grouped_words = OrderedDict()
     grouped_words['short'] = []
@@ -27,7 +27,24 @@ def group_print(words):
         grouped_words[word_length_level(word)].append(word)
 
     for level, sub_words in grouped_words.items():
-        print('{} words, {} words in total ({:.2f}%)'.format(
-            level, len(sub_words), 100 * len(sub_words) / len(words)
+        print('{} {}, {} words ({:.2f}%)'.format(
+            '#' * markdown_sharps,
+            level.capitalize(),
+            len(sub_words),
+            100 * len(sub_words) / len(words)
         ))
         print(' '.join(sorted(sub_words)))
+
+
+def statt(wordlist_paths):
+    from util.common import load_wordlist, print_dictionaries
+
+    # get all words
+    allwords = set()
+    for wordlist_path in wordlist_paths:
+        wordlist = load_wordlist(wordlist_path)
+        allwords |= set(wordlist)
+
+    # group and print
+    print_dictionaries(wordlist_paths)
+    group_print(allwords)
