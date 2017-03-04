@@ -52,12 +52,3 @@ def analyze(wordlist_paths, printer=None):
         for lv, wordgroup_kv in enumerate(wordgroups):
             print('Level {}'.format(lv))
             printer(wordgroup_kv[1])
-
-
-if __name__ == '__main__':
-    import argparse
-    parser = argparse.ArgumentParser(__doc__)
-    parser.add_argument('-l', '--wordlists', nargs='+',
-                        help='list of wordlist json files')
-    FLAGS = parser.parse_args()
-    analyze(FLAGS.wordlists)
