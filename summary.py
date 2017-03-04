@@ -1,8 +1,8 @@
 import fire
 
 
-class WordlistInspector:
-    ''' Inspector for wordlists '''
+class WordlistSummary:
+    ''' Automatically summarize wordlists '''
     def statt(self, *wordlists):
         from util.statt import statt
         statt(wordlists)
@@ -19,4 +19,4 @@ class WordlistInspector:
 
 
 if __name__ == '__main__':
-    fire.Fire(WordlistInspector)
+    fire.Fire(WordlistSummary)
