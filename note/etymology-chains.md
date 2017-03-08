@@ -17,3 +17,13 @@ pertain(relevant) -> appertain(belong) -> appurtenant(accessory)
 parable(story) -> palaver(empty talk)
 
 contend(strive) -> contentious(against)
+
+communicate -> munificent(generous)
+
+objurgate(criticise) | adjudicate(make judgement)
+
+obstreperous(disobedient) |
+
+desiccated(dry) | dissipate(separate)
+
+truculent(rude, violent) | turpitude(immoral)
