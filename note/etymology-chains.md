@@ -41,3 +41,15 @@ brow(forehead) -> browbeat(threat)
 tendare(stretch) -> portend(predict) -> portent(omen) -> portentous(significant, pompous, amazing)
 
 esteem -> estimable
+
+inimicable(harmful) | inimitable(cannot be immitated)
+
+fervent -> effervescent
+
+felicity(happiness) -> infelicitous(improper)
+
+solicit(sole + licit: completely moved): plead -> insouciance(careless, without trouble)
+
+quasiling(betrayer) | quail(feel fear)
+
+tacit(implicit) -> taciturn(reserved)
