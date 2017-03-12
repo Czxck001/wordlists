@@ -1,12 +1,15 @@
 chains:
-conceive - conceit - conceited
-abrupt - brusque - brisk
-discreet - discretion(confidentiality)
-discrete - discretion(freedom to choose) - discretionary(depended on circumstances)
+
+conceive -> conceit -> conceited
+
+abrupt -> brusque -> brisk
+
+discreet -> discretion(confidentiality)
+discrete -> discretion(freedom to choose) - discretionary(depended on circumstances)
+
 provident -> prudent
 a. prepare to future -> careful about result
 b. frugal
-officious = intrusive = interfering = meddlesome
 
 odious -> anodyne
 
@@ -16,7 +19,7 @@ pertain(relevant) -> appertain(belong) -> appurtenant(controversy)
 
 parable(story) -> palaver(empty talk)
 
-contend(strive) -> contentious(likely to argue)
+contend(strive) -> contentious(likely to argue, controversy)
 
 communicate -> munificent(generous)
 
@@ -75,3 +78,21 @@ pecus(cattle) -> peculium(private property) -> peculiar(special) -> pecuniary(ab
 recount(tell story) -> raconteur(someone telling story)
 
 de bon aire (of good disposition) -> debonair
+
+vicare(substitute) -> vicar(priest) -> vicarious(deligated)
+
+zenith <-> nadir
+
+disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved)
+
+mettlesome(brave) | meddlesome(intrusive)
+
+perspecuous(obvious, clear) | perspective(vista, view point) | perspicacious(insightful, percipient)
+
+mulgare: milk -> promulgate(state or announce)
+
+fractious(ill-tempered) | factious(dissenting)
+
+sang froid(cold blood) -> sangfroid(/sangfrwa/, calm)
+
+complaint | complaisant(obliging) | complacent(self-satisfied)
