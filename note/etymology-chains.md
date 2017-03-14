@@ -87,7 +87,7 @@ disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved)
 
 mettlesome(brave) | meddlesome(intrusive)
 
-perspecuous(obvious, clear) | perspective(foresee, view point) | perspicacious(insightful, perceptive) = percipient(insightful) | precipitant(haste, about to happen)
+prospective(about to happen) | perspective(foresee, view point) | perspecuous(obvious, clear) | perspicacious(insightful, perceptive) = percipient(insightful) | precipitant(hasty, sudden)
 
 mulgare: milk -> promulgate(state or announce)
 
