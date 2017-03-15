@@ -51,16 +51,3 @@ if __name__ == '__main__':
 
     console = WordlistConsole(obj)
     console.cmdloop()
-
-# while True:
-#     print('> ', end='')
-#     query = input()
-#     if query in obj:
-#         for k, v in obj[query].items():
-#             print(k, ': ', v)
-#     elif query == '--':
-#         break
-#     else:
-#         print('"{}" not found in wordlist {}'.format(
-#             query, FLAGS.list_path
-#         ))
