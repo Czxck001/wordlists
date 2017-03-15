@@ -19,7 +19,7 @@ pertain(relevant) -> appertain(belong) -> appurtenant(accessory)
 
 parable(story) -> palaver(empty talk)
 
-contend(strive) -> contentious(likely to argue, controversy)
+contend(strive) -> contentious(likely to argue, controversy) | content (what contained, satisfied)
 
 communicate -> munificent(generous)
 
@@ -87,7 +87,7 @@ disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved)
 
 mettlesome(brave) | meddlesome(intrusive)
 
-prospective(about to happen) | perspective(foresee, view point) | perspecuous(obvious, clear) | perspicacious(insightful, perceptive) = percipient(insightful) | precipitant(hasty, sudden)
+prospective(about to happen) | perspective(foresee, view point) | perspecuous(obvious, clear) | perspicacious(insightful, perceptive) = percipient(insightful) | precipitant(hasty, sudden) | perpetuate(cause to continue)
 
 mulgare: milk -> promulgate(state or announce)
 
@@ -118,3 +118,21 @@ stultus(foolish, immovable) -> stultify(dull, defame)
 venire(come) -> parvenu(arriviste)
 
 punctum(point) -> punctual(keeping to time) -> punctilious(fastidious)
+
+turgid(boring) | torpor(inactivity)
+
+impervious(not affected) | imperious(arrogant) | impertinent = impudent(bold) | imprudent(not prudent)
+
+pet(seek) -> petulant(ill-tempered) | impetuous(hasty)
+
+indigenous(belonging to one place) | indigent(poor) | indignant(angry for injustice)
+
+supercilious(arrogant) | superfluous = surfeit(excess)
+
+propitious(favorable) -> propitiate(appease)
+
+expurgate(remove offensive parts) = expunge(eliminate)
+
+pecuniary(about money) -> impecunious(poor) = penurious
+
+underwrite(ensure) | underscore = underline(emphasize)
