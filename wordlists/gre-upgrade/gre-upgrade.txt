@@ -1166,7 +1166,7 @@ n. inherent baseness: depravity
 148 sporadic
 adj. occurring occasionally, singly, or in irregular or random instances s. intermittent, fitful, desultory, spotty a. frequent, regular
 149 amalgamate
-v. to unite or to merge into a single body: mix s. compound, fuse, meld, merge, mingle a. decompose, disintegrate; disperse, dissipate, scatter
+v. to unite or to merge into a single body: mix s. compound, fuse, meld, merge, mingle a. decompose, disintegrate, disperse, dissipate, scatter
 150 nicety
 n. careful attention to details or delicate exactness: precision s. distinction, refinement, delicacy
 151 nascent
@@ -1323,7 +1323,7 @@ adj. expressive of suffering or sadness: melancholy s. doleful, lamentable, lugu
 i. v. to hold in or reduce to slavery s. enslave, subjugate, subdue a. emancipate
 ii. v. to hold spellbound: charm s. fascinate, grip, hold, mesmerize, spellbind a. bore, ennui, weary
 170 opulent
-adj. amply or plentifully provided or fashioned often to the point of ostentation: wealthy s. lavish, prodigal, profuse; extravagant, ostentatious, pretentious a. modest, simple, unpretentious
+adj. amply or plentifully provided or fashioned often to the point of ostentation: wealthy s. lavish, prodigal, profuse, extravagant, ostentatious, pretentious a. modest, simple, unpretentious
 171 inimical
 adj. having the disposition of an enemy: hostile, harmful
 172 forthcoming
@@ -4096,30 +4096,10 @@ Quick Preview
 □ impermeable □ dissemble
 □ propensity
 □ bereave
-522 vindicate
-i. v. to provide justification or defense for: defend s. confirm, maintain, substantiate, warrant, second
-ii. v. to free from allegation or blame: exculpate s. absolve, acquit, exonerate, confute a. convict, accuse, calumniate
-iii. v. avenge
-523 advent
-n. coming into being or use: introduction
-524 rebuke
-i. v. to criticize sharply: reprimand, reprove s. admonish, chide, reprimand, reproach
-ii. n. an expression of strong disapproval: reprimand s. admonishment, admonition, chiding, reproach, reproof
-525 conciliate
-i. v. to make compatible: reconcile a. antagonize, alienate, disaffect, estrange
-ii. v. to appease or pacify s. assuage, mollify, placate, propitiate a. foment, pique, provoke, stimulate
-526 portentous
-i. adj. eliciting amazement or wonder: prodigious
-ii. adj. of, relating to, or constituting a sign of evil
-527 ostracize
-v. to exile or exclude from a group by common consent: banish s. deport, exile, expatriate, expel, expulse, oust
-□ inequity □ neophyte □ specious □ endemic □ stricture
-□ rebuke
-□ conciliate
-□ plod
-n. the highest point of development or achievement: acme, summit
+
 521 pinnacle
-   s. apex, apogee, culmination, meridian, zenith
+n. the highest point of development or achievement: acme, summit
+s. apex, apogee, culmination, meridian, zenith
                        134
 all rights reserved
 for non-commercial purposes only a. harbor, haven, refuge, shelter
