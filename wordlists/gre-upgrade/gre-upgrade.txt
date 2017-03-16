@@ -2876,10 +2876,10 @@ Quick Preview
 □ affinity
 □ squander
 □ phlegmatic
-n. state of perplexity especially as requiring a choice between equally unfavorable options
+
 361 dilemma
-□ caustic
-  s. predicament, bewilderment, perplexity
+n. state of perplexity especially as requiring a choice between equally unfavorable options s. predicament, bewilderment, perplexity
+
 362 arduous
 adj. marked by great labor or effort: strenuous s. effortful, labored, laborious, toilsome
 363 recur
@@ -4259,9 +4259,9 @@ Quick Preview
 □ emulate
 □ cursory
 □ placid
-v. to arouse to sharp but transitory annoyance or anger: irritate
+
 541 nettle
-   s. exasperate, peeve, pique, provoke, rile, roil
+v. to arouse to sharp but transitory annoyance or anger: irritate s. exasperate, peeve, pique, provoke, rile, roil
 542 check
 i. v. to restrain or diminish the action or force of: control s. bridle, constrain, curb, inhibit, withhold
 ii. v. to halt through caution, uncertainty, or fear: stop
