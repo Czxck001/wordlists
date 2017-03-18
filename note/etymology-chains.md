@@ -136,3 +136,11 @@ expurgate(remove offensive parts) = expunge(eliminate)
 pecuniary(about money) -> impecunious(poor) = penurious
 
 underwrite(ensure) | underscore = underline(emphasize)
+
+gaffe = gauche(lacking social polish)
+
+anonymous | anomalous(not normal)
+
+garrulous(wordy) | gossamer(light and fragile)
+
+ingenuous(frank) | ingenious(inventive) -> ingenuity(inventiveness)

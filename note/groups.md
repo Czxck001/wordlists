@@ -12,7 +12,7 @@ special, charactorized: indigenous, endemic
 
 delete, remove, destroy: bowdlerize, squelch
 
-fast, quick: celerity, precipitant(haste)
+fast, quick: celerity, precipitant(haste), dispatch
 
 highest: apotheosis, apogee, apex,
 
@@ -92,7 +92,7 @@ lasting: incessant, chronical, perpetuate
 
 axiom: epigram, wittiness, quip, aphorism, apothegm
 
-clever, learned: erudite, pundit, witty, figurative, sagacious
+clever, learned: erudite, pundit, witty, figurative, sagacious, cerebral, astute
 
 excessive: cosset, surfeit, glut, superfluous
 
@@ -114,13 +114,13 @@ changing: phantasmagorical, protean(versatile), vicissitude
 
 straying: errant, aberrant, heretic, discursive, maverick
 
-hinder: balk, thwart, preclude, impede, stymie, encumber, hold back
+hinder: balk, thwart, preclude, impede, stymie, encumber, hold back, hobble
 
 limit, confine: hamper, bridle, circumscribe, stint, stringent, immure, trammel, stem
 
 attracted: mesmerize, enthrall
 
-timid, shy: timorous, trepid, groveling, craven, quail, retiring
+timid, shy: timorous, trepid, groveling, quail, retiring, craven(like a coward)
 
 awe: reverent, lionize, venerate, deferential, condescension, redoubtable
 
@@ -148,7 +148,7 @@ pure: pristine, inviolate
 
 justify: vindicate, rebunk
 
-envious: jaundiced, blinkered(narrow minded)
+envious: jaundiced, blinkered(narrow minded), begrudge
 
 narrow minded: blinkered
 
@@ -156,7 +156,7 @@ beat: fell, lambast
 
 criticise: upbraid, censure, rebuke, chastise, admonish, castigate, reproach, pillory, vituperate, impugn, objurgate, polemic, decry, excoriate, broadside
 
-defame: calumny, denigrate, debase, derogative, vilify, debase, bismirch, malign, derogate, diatribe
+defame: calumny, denigrate, debase, derogative, vilify, debase, bismirch, malign, derogate, diatribe, besmirch
 
 harsh, bitter: vitriolic, acerbic, acrimony, mordant
 
@@ -176,7 +176,7 @@ ill-tempered: petulant, peevish, sulky, splenetic, choleric, bilious, fractious
 
 contemptuous: pejorative, deride, disprise, ridicule, invective
 
-arrogant: pompous, haughty, hauteur, supercilious, autocratic, frivolous, deign, didactic(instructive), cavalier, dogmatic, despot, peremptory, overweening, hubris, magisterial
+arrogant: pompous, haughty, hauteur, supercilious, autocratic, frivolous, deign, didactic(instructive), cavalier(careless), dogmatic, despot, peremptory, overweening, hubris, magisterial
 
 long speech: tirade, harangue, discourse. diatribe(criticise)
 
@@ -188,7 +188,7 @@ begin: inchoate, embryonic, incipient, nascent, gambit
 
 end: denouement, culminate, moribund(obsolescent)
 
-showy: ostentatious, tawdry, effusive, volubility, garrulous(not gossamer), raffish, conspicuous, vulgar, blatant, patent, arriviste, parvenu, histrionic
+showy: ostentatious, tawdry, effusive, volubility, raffish, conspicuous, vulgar, blatant, patent, arriviste, parvenu, histrionic
 
 not serious: facetious, frivolous, flippant
 
@@ -208,7 +208,7 @@ pleasant: palatable, mellifluous(fluent), dolcet, piquant
 
 favorable: blissful, beatific, propitious, auspicious, boon
 
-unfavorable: portentous(ominously prophetic), impropitious, untoward, baleful
+unfavorable: portentous(ominously prophetic), impropitious, untoward
 
 joyful, happy: ebullient, alacrity, effervescent, jubilant, jocular, convivial
 
@@ -217,6 +217,8 @@ tease: raillery, arch
 lucky: fortuitous, serendipity
 
 tragic: elegiac, poignant, jeremiad
+
+terrible: macabre
 
 sad, sorrow: dolorous, lachrymose, doleful, bemoan(regret), lament, lugubrious
 
@@ -228,7 +230,7 @@ careful, prudent: scrupulous, discreet(tactful), provident(for the future intere
 
 careless: haphazard, imprudent, cavalier, impetuous, remiss(negligent), insouciance, perfunctory, slapdash
 
-free, carefree: panache, untrammeled
+free, carefree: panache, untrammeled, rakish
 
 wasteful: wanton, dissolute, extravagent, sumptuous, profligate(ruined), prodigal, dissipate(scatter)
 
@@ -244,11 +246,11 @@ ordinary: hackneyed, banality, trite, screed, platitude, quotidian, mundane
 
 common: catholic
 
-empty: volubility, palaver, pedantic(trivial), inanity, vacuous, rhetoric, discursive(depart from main point)
+empty: volubility, palaver, pedantic(trivial), inanity, vacuous, rhetoric, discursive(depart from main point), garrulous(trivial talk)
 
 diligent: arduous, sedulous, assiduous
 
-awkward, hard: bumbling, clumsy, maladroit, ponderous, flounder, hobble, antic(ludicrous), obtuse(ant. acute)
+awkward, hard: bumbling, clumsy, maladroit, ponderous, flounder, antic(ludicrous), obtuse(ant. acute), conundrum, travail
 
 stupid: benighted(ignorent), philistine(uncultured), pedestrian(dull), foolhardy
 
@@ -280,7 +282,7 @@ add details: embellish, expound, elaborate
 
 tired, weak: lethargic, languid, languish, enervate, soporific, flag, torpor, feeble, attenuate, anemic, quiescent, feckless(lazy, useless), stultify
 
-threat, impose, force: duress, cow, enjoin, browbeat, hector
+threat, impose, force: duress, cow, enjoin, browbeat, hector, baleful
 
 attribute: impute, ascribe
 
@@ -324,7 +326,7 @@ anger, angry: indignity, umbrage, indignant, bristle, bridle
 
 embarrass: chagrin, mortify, discomfit
 
-betrayal: treacherous, perfidy, duplicity, disaffected, quisling, apostate, complicit(collude, conspire)
+betrayal: treacherous, perfidy, duplicity, disaffected, quisling, apostate, complicit(collude, conspire), collusion
 
 uneasy: restive, qualm
 
@@ -342,7 +344,7 @@ dilemma: skymie, quandary
 
 deprived, hopeless: bereft, forlorn
 
-abandoned: pariah, derelict
+abandoned: pariah, derelict, outcast
 
 old: archaic, hoary, anachronism(inappropriate), antidiluvian, superannuted, obsolete, atavism(throwback)
 
