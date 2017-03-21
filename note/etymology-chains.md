@@ -119,6 +119,8 @@ venire(come) -> parvenu(arriviste)
 
 punctum(point) -> punctual(keeping to time) -> punctilious(fastidious)
 
+pungere("to prick, sting") -> compunction(uneasy)
+
 turgid(boring) | torpor(inactivity)
 
 impervious(not affected) | imperious(arrogant) | impertinent = impudent(bold) | imprudent(not prudent)
@@ -144,3 +146,15 @@ anonymous | anomalous(not normal)
 garrulous(wordy) | gossamer(light and fragile)
 
 ingenuous(frank) | ingenious(inventive) -> ingenuity(inventiveness)
+
+via -> deviate -> deviant
+
+concert -> disconcert
+
+acquiesce(assent) | acquisitive(desiring)
+
+invent -> advent(arrival)
+
+complexity(complication) | complicity(collusion)
+
+demonstrable(solid) | demonstrative(emotional)
