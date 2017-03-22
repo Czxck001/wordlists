@@ -27,7 +27,7 @@ objurgate(criticise) | adjudicate(make judgement)
 
 obstreperous(disobedient) |
 
-desiccated(dry) | dissipate(separate)
+desiccated(dry) | dissipate(separate) | dissident(disagree)
 
 truculent(rude, violent) | turpitude(immoral)
 
@@ -158,3 +158,9 @@ invent -> advent(arrival)
 complexity(complication) | complicity(collusion)
 
 demonstrable(solid) | demonstrative(emotional)
+
+morale(not moral) -> dismoralize
+
+clement(mild, merciful) | clamant(urgent)
+
+bonus(good) -> bounty(reward, generosity) -> bounteous

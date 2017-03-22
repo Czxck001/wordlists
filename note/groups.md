@@ -2,7 +2,7 @@ groups:
 
 flood: deluge, inundate, swamp, submerge
 
-support: underwrite, bolster, buttress
+support: underwrite, bolster, buttress, endorse,
 
 advantage: ascendency
 
@@ -12,13 +12,15 @@ expel: relegate
 
 special, charactorized: indigenous, endemic
 
-delete, remove, destroy: bowdlerize, squelch
+delete, remove, destroy: bowdlerize, squelch, efface, eradicate, expurgate, expunge, annul, obliterate, extirpate
 
 fast, quick: celerity, dispatch
 
+urgent: [exact]exigent, pressing, clamant, imperative
+
 highest: apotheosis, apogee, apex,
 
-ideal, example: paragon, examplar, quixotic, archetype(prototype)
+ideal, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary)
 
 authoritative, orthodox: canonical, arbiter
 
@@ -45,8 +47,6 @@ near, adjacent: contiguous
 agree, concent: accede, acquiesce, concur, concord, congenial, consonant, congruous, kindred(of same family),
 
 combine: conflate, amalgam, coalesce, graft, hodgepodge, chimera(distorted), synergy, mingle(mix gently), conjoin, convention
-
-remove: expurgate, expunge, erradicate
 
 accuse: indite, impeach
 
@@ -86,7 +86,9 @@ desire, greedy: cupidity, avid, avaricious, grasping, covet -> covetous, acquisi
 
 laugh: chortle, guffaw
 
-lessen, soothe: appease, placate, molify, pacify, reconcile, mitigate, alleviate, mollify, consiliate, anodyne, console, propitiate, subside, abate
+soothe: appease, placate, molify, pacify, reconcile, mitigate, mollify, consiliate, anodyne, console, propitiate, subside, abate
+
+lessen: abate, alleviate, dwindle(shrink)
 
 seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), servile(<-slave, servant), adulation, coax, cajule, blandish, blarney
 
@@ -108,7 +110,7 @@ large: prodigious(marvolous), capacious(able to hold lot), grandiloquent(exagger
 
 small: parochial, diminutive, modicum, nuance
 
-poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity
+poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, skimpy,
 
 saving: economical, frugal, thrifty, spagring, parsimonious, stingting
 
@@ -118,7 +120,7 @@ irregular: erratic, sporadic, mercurial, capricious, contingent
 
 changing: phantasmagorical, protean(versatile), vicissitude
 
-straying: errant, aberrant, heretic, discursive, maverick, deviant, deviate, awry, crooked, digress
+straying: errant, aberrant, heretic, discursive, maverick, deviant, deviate, awry, crooked, digress, divagate, ramble
 
 hinder: balk, thwart, preclude, impede, stymie, encumber, hold back, hobble, foil, discomfit(I)
 
@@ -156,7 +158,7 @@ pure: pristine, inviolate
 
 pollute: adulterate, taint, infect, mar
 
-justify: vindicate, rebunk
+justify: vindicate, rebunk, exonerate, exculpate, acquit
 
 envious: jaundiced, blinkered(narrow minded), begrudge
 
@@ -166,7 +168,7 @@ complaint: carp, grumble, grouse, cavil, nitpick, quibble
 
 beat: fell, lambast
 
-criticise: upbraid, censure, rebuke, chastise, admonish, castigate, reproach, pillory, vituperate, impugn, objurgate, polemic, decry, excoriate, broadside, belabor
+criticise: upbraid, censure, rebuke, chastise, admonish, castigate, reproach, pillory, vituperate, impugn, objurgate, polemic, decry, excoriate, broadside, belabor, disparage
 
 defame: calumny, denigrate, debase, derogative, vilify, debase, bismirch, malign, derogate, diatribe, besmirch
 
@@ -174,7 +176,7 @@ harsh, bitter: vitriolic, acerbic, acrimony, mordant, cranky, caustic
 
 satire, mock: lampoon, sardonic, snide, travesty
 
-disagree: factious, dissent, subversive, heretic, countermand, rescind, incongruous, discord, proscribe, remonstrate, row(an angry dispute), expostulate, deprecate
+disagree: factious, dissent, subversive, heretic, countermand, rescind, incongruous, discord, proscribe, remonstrate, row(an angry dispute), expostulate, deprecate, dissident
 
 oppose: antithesis, antagonism(agon: "contest")
 
@@ -192,7 +194,7 @@ contemptuous: pejorative, deride, disprise, ridicule, invective
 
 arrogant: pompous, haughty, hauteur, supercilious, autocratic, frivolous, deign, didactic(instructive), cavalier(careless), dogmatic, despot, peremptory, overweening, hubris, magisterial, bully,
 
-long speech: tirade, harangue, discourse. diatribe(criticise)
+long speech: tirade, harangue, discourse. diatribe(criticise), expatiate
 
 intrusive: sententious(also cogent), officious, interfering, meddlesome
 
@@ -208,15 +210,15 @@ showy: ostentatious, tawdry, effusive, volubility, raffish, conspicuous, vulgar,
 
 not serious: facetious, frivolous, flippant, colloquial(spoken, vernacular)
 
-emotional: mawkish, demonstrative, maudlin
+emotional: mawkish, demonstrative, maudlin, outpouring
 
 superficial: dilettante, facile, glib, pontificate
 
-talktive: [expand]expansive
+talktive, persuasive: [expand]expansive, eloquent, vocal(outspoken), potent, voluble
 
 love, friendly: enamored, cordial, rapprochement(recover friendship), affinity, comity
 
-prefer, praise: exalt, accolade, laudable, predilection(strong liking), panegyric, encomium, vaunted(also boasted), approbatory(approval), comment, compliment, applaud, hail, extol
+prefer, praise: exalt, accolade, laudable, predilection(strong liking), panegyric, encomium, vaunted(also boasted), approbatory(approval), comment, compliment, applaud, hail, extol, eulogy, tribute, adulation
 
 pleasant: palatable, mellifluous(fluent), dolcet, piquant
 
@@ -224,7 +226,7 @@ favorable: blissful, beatific, propitious, auspicious, boon
 
 unfavorable: portentous(ominously prophetic), impropitious, untoward
 
-joyful, happy: ebullient, alacrity, effervescent, jubilant, jocular, convivial, blithe(I)
+joyful, happy: ebullient, alacrity, effervescent, jubilant, jocular, convivial, blithe(I), exuberant, exhilarate, elate, commove, animate, invigorate
 
 kind, merciful: clement, lenient, forbearing, charitable, indulgent
 
@@ -240,7 +242,7 @@ sad, sorrow: dolorous, lachrymose, doleful, bemoan(regret), lament, lugubrious
 
 mourn, sympathize: console, commiserate, compassionate
 
-demanding: martinet(observing), fastidious, meticulous, exacting, punctilious
+demanding: martinet(observing), fastidious, meticulous, exacting, punctilious, exigent
 
 secret: furtive, insidious, surreptitious, abscond, decamp
 
@@ -280,7 +282,9 @@ learned: erudite, pundit, witty, figurative, sagacious, cerebral, versed
 
 known, updated: cognizant, conversant, abreast(in line)
 
-awkward, hard: inept, bumbling, clumsy, maladroit, ponderous, flounder, antic(ludicrous), obtuse(ant. acute), conundrum, travail, operose, taxing
+awkward, hard: inept, bumbling, clumsy, maladroit, ponderous, flounder, obtuse(ant. acute), conundrum, travail, operose, taxing, onerous
+
+absurd, ridiculous: antic, ludicrous, farcical, preposterous
 
 stupid: benighted(ignorent), philistine(uncultured), pedestrian(dull), foolhardy
 
@@ -294,7 +298,7 @@ rural: rustic, bucolic, pasteral, provincial
 
 reserved: reticent, inscrutable, dispassionate, stolid, taciturn, self-effacing, phlegmatic,
 
-calm: aplomb, unflappable, impervious
+calm: aplomb, unflappable, impervious, equanimity, composure, ataraxy, serenity, tranquility
 
 kind, mild: affable, genial, amiable, debonair, halcyon, complaisant(obliging)
 
@@ -306,7 +310,7 @@ self-satisfied: smug, complacent
 
 gloomy: sullen(hostile), morose, saturnine, abject(I), miserable, dismal, wretched
 
-illustrate: delineate, elucidate
+show, illustrate: delineate, elucidate, evince, manifest, bespeak(indicate)
 
 add details: embellish, expound, elaborate,
 
@@ -336,7 +340,7 @@ derive: extrapolate, derivative, syllogism, corollary
 
 spectulation, hypothetical: moot, posit, conjecture
 
-discover: descry, perceive, discern
+discover: descry, perceive, discern(also. distinguish), divulge, betray, give away, disclose, unclose
 
 foresee: prescience, presentiment, percipient(perspective), antedate(also means make sth. earlier in time)
 
@@ -372,7 +376,7 @@ embarrass: chagrin, mortify, discomfit(II), abash, disconcert, abash(<-astound)
 
 uneasy, regret: restive, qualm, compunction, penitence, contrition, penance, remorse, repentance, rue, distress
 
-frustrated: crestfallen, unnerved, prostrate
+frustrated: crestfallen, unnerved, prostrate, dishearten, demoralize
 
 drug: anodyne, soporific, panacea(cure-all)
 
