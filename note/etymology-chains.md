@@ -164,3 +164,7 @@ morale(not moral) -> dismoralize
 clement(mild, merciful) | clamant(urgent)
 
 bonus(good) -> bounty(reward, generosity) -> bounteous
+
+supplement(addition) | supplicate(beg)
+
+seditious(stiring up) | sedulous(diligent)
