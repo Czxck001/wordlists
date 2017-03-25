@@ -7,3 +7,7 @@
 
 ## pre-
 1. a prefix occurring originally in loanwords from Latin, where it meant “before” (*preclude; prevent*); applied freely as a prefix, with the meanings “prior to,” “in advance of,” “early,” “beforehand,” “before,” “in front of,” and with other figurative meanings (*preschool; prewar; prepay; preoral; prefrontal*).
+
+
+## -escent
+1. Latin "-ing": present participle: "quiescent(resting), evanescent(fleeting)"
