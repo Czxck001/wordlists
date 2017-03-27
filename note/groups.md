@@ -1,5 +1,7 @@
 groups:
 
+gather: garner, amass
+
 light, tender: gossamer, diaphanous
 
 flood: deluge, inundate, swamp, submerge
@@ -13,8 +15,6 @@ special, charactorized: indigenous, endemic
 delete, remove, destroy: bowdlerize, squelch, efface, eradicate, expurgate, expunge, annul, obliterate, extirpate, quench(cool, solve), obliterate("remove letters")
 
 fast, quick: celerity, dispatch
-
-urgent: [exact]exigent, pressing, clamant
 
 highest: apotheosis, apogee, apex
 
@@ -52,9 +52,11 @@ mix, combine: conflate, amalgam, coalesce, graft, hodgepodge, chimera(distorted)
 
 accuse: indite, impeach
 
-not important: picayune, negligible, immaterial, frivolous, ethereal(light, insubstantial), trifling
+not important: picayune, negligible, immaterial, frivolous, ethereal(light, insubstantial), trifling, nominal
 
-important, necessary: imperative
+urgent: [exact]exigent, pressing, clamant
+
+important, necessary: imperative, paramount
 
 significant: telling, eminent, primacy, appreciable, illustrious(distinguished)
 
@@ -104,7 +106,7 @@ seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), 
 
 free, exempt: defray, exonerate, impunity, emancipate, unshackle, manumit("send out from your hand"), discharge,
 
-limit, confine: hamper, bridle, circumscribe, stint, stringent, immure, trammel, stem, crample, shackle -> fetter
+limit, confine: hamper, bridle, circumscribe, stint, stringent, immure, trammel, stem, crample, shackle -> fetter, parochial(narrow minded), blinkered(narrow minded)
 
 short: meteoric, ephemeral, transient, evanescent,
 
@@ -122,7 +124,7 @@ rich, abundant: opulence, cornucopia, copious, profuse, affluent, burgeon, munif
 
 large: prodigious(marvolous), capacious(able to hold lot), grandiloquent(exaggerated), capacious, ample, commodious
 
-small: parochial, diminutive, modicum, nuance, infinitesimal
+small, subtle:diminutive, modicum, nuance, infinitesimal, minute = nice
 
 poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, skimpy,
 
@@ -176,7 +178,7 @@ pollute: adulterate, taint, infect, mar
 
 justify: vindicate, rebunk, exonerate, exculpate, acquit
 
-envious: jaundiced, blinkered(narrow minded), begrudge
+envious: jaundiced, begrudge
 
 narrow minded: blinkered
 

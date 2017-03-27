@@ -127,7 +127,7 @@ impervious(not affected) | imperious(arrogant) | impertinent = impudent(bold) | 
 
 pet(seek) -> petulant(ill-tempered) | impetuous(hasty)
 
-indigenous(belonging to one place) | indigent(poor) | indignant(angry for injustice)
+indigenous(belonging to one place) | indigent(poor) | indignant(angry for injustice) | indolent(lazy)
 
 supercilious(arrogant) | superfluous = surfeit(excess)
 
@@ -172,3 +172,7 @@ seditious(stiring up) | sedulous(diligent)
 adverse(unfavorable) -> adversary(opponant) | adversity(misfortune)
 
 enervate(weaken) | innervate(stimulate)
+
+vadere("go") -> invade | pervade(pass through)
+
+pervasive(exist everywhere) | prevailing(usual, common)
