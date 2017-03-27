@@ -1,8 +1,7 @@
-''' Print the supplementary part of New GRE Upgrade book, Barrons,
+''' Print the supplementary part of New GRE Upgrade book
     with respect to Magoosh GRE flashcards
 '''
 from util.common import load_wordlist
-from util.statt import group_print
 
 magoosh_path = 'wordlists/magoosh-gre'
 barron_path = 'wordlists/barron-800'
@@ -10,8 +9,6 @@ upgrade_path = 'wordlists/gre-upgrade'
 
 
 magoosh_words = set(load_wordlist(magoosh_path))
-
-barron_words = set(load_wordlist(barron_path)) - magoosh_words
 
 upgrade_words = sorted([
     (k, v) for k, v in load_wordlist(upgrade_path, detailed=True).items()
@@ -38,9 +35,3 @@ for word, struct in upgrade_words:
             ))
             print()
     print()
-
-
-# Barron's
-
-print('# Barron\'s 800 words')
-group_print(barron_words, markdown_sharps=2)
