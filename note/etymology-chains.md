@@ -168,3 +168,7 @@ bonus(good) -> bounty(reward, generosity) -> bounteous
 supplement(addition) | supplicate(beg)
 
 seditious(stiring up) | sedulous(diligent)
+
+adverse(unfavorable) -> adversary(opponant) | adversity(misfortune)
+
+enervate(weaken) | innervate(stimulate)

@@ -1,5 +1,7 @@
 groups:
 
+light, tender: gossamer, diaphanous
+
 flood: deluge, inundate, swamp, submerge
 
 advantage: ascendency, vanguard
@@ -8,7 +10,7 @@ expel: relegate
 
 special, charactorized: indigenous, endemic
 
-delete, remove, destroy: bowdlerize, squelch, efface, eradicate, expurgate, expunge, annul, obliterate, extirpate, quench(cool, solve)
+delete, remove, destroy: bowdlerize, squelch, efface, eradicate, expurgate, expunge, annul, obliterate, extirpate, quench(cool, solve), obliterate("remove letters")
 
 fast, quick: celerity, dispatch
 
@@ -16,13 +18,13 @@ urgent: [exact]exigent, pressing, clamant
 
 highest: apotheosis, apogee, apex
 
-ideal, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary)
+ideal, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary), quintessence("fifth essence")
 
 authoritative, orthodox: canonical, arbiter
 
 evade: beg, evasive
 
-religious: vicar, pastoral, parochial, Epiphany, cataclysm, canon, proselytize, exegesis(explanation), litany, consecrate, apostate(betrayer), mendicant(begger), hagiography, hymn
+religious: vicar, pastoral, parochial, Epiphany, cataclysm, canon, proselytize, exegesis(explanation), litany, consecrate, apostate(betrayer), mendicant(begger), hagiography, hymn, rector
 
 persuade: disabuse, proselytize
 
@@ -36,7 +38,7 @@ scheme, plot: gerrymander, machinate, byzantine
 
 omen: prognostication(prognosis), herald
 
-same, coincide: commensurate, tantamount, dovetail(fit), co(n)terminous(same in scope, or adjacent), concomitant, concur
+same, coincide: commensurate(compatible), tantamount, dovetail(fit), co(n)terminous(same in scope, or adjacent), concomitant, concur
 
 near, adjacent: contiguous
 
@@ -60,7 +62,7 @@ suspicious: leery, askance
 
 hesitate: waver, vacillate, irresolute, tentative, halting,
 
-cancel, retract: infringe, rescind, abjure, disvow, renounce, abrogate, revoke, remit
+cancel, retract: infringe, rescind, abjure, disvow, renounce, abrogate, revoke, remit, back away from, withdraw, retreat
 
 noble: magnanimous, genteel(well-mannered)
 
@@ -98,7 +100,7 @@ worsen: devolve, exacerbate
 
 lure: allure, bait, decoy("the cage"), entice, entrap, seduce, inveigle("deprive of sight"), solicit
 
-seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), servile(<-slave, servant), adulation, coax, cajule, blandish, blarney
+seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), servile(<-slave, servant), adulation, coax, cajule, blandish, blarney, toady
 
 free, exempt: defray, exonerate, impunity, emancipate, unshackle, manumit("send out from your hand"), discharge,
 
@@ -166,7 +168,7 @@ frank, candid: veracious, ingenuous, probity, artless
 
 true: verisimilitude(very likely), veracity
 
-not solid: tenuous, precarious, implausible
+not solid: tenuous, precarious, implausible, [doubt]dubious
 
 solid: impeccable, irrefutable, incontrovertible, veritable(absolute), irrevocable, unimpeachable, inviolable, impregnable, categorical, demonstrable, unexceptionable, tenable
 
@@ -222,7 +224,7 @@ new: neologism, neoteric, newfangled, novel
 
 beginner: novice, apprentice, tyro, colt, novitiate, tyro, neophyte("newly planted"),
 
-begin: inchoate, embryonic, incipient, nascent, gambit, genesis
+beginning, initial: inchoate, embryonic, incipient, nascent, gambit, genesis
 
 end: denouement, culminate, moribund(obsolescent), coda
 
@@ -240,13 +242,13 @@ love, friendly: enamored, cordial, rapprochement(recover friendship), affinity, 
 
 praise: exalt, accolade, laudable, panegyric, encomium, vaunted(also boasted), approbatory(approval), comment, compliment, applaud, hail, extol, eulogy, tribute, adulation
 
-prefer: predilection, propensity
+prefer: predilection, propensity, partisan
 
 pleasant: palatable, mellifluous(fluent), dolcet, piquant
 
 favorable: blissful, beatific, propitious, auspicious, boon
 
-unfavorable: portentous(ominously prophetic), impropitious, untoward
+unfavorable: portentous(ominously prophetic), impropitious, untoward, adverse, calamitous
 
 joyful, happy: ebullient, alacrity, effervescent, jubilant, jocular, convivial, blithe(I), exuberant, exhilarate, elate, commove, animate, invigorate, [buoy]buoyant,
 
@@ -276,7 +278,7 @@ fine: nicety, distinction, refinement, delicacy
 
 prudent, careful: scrupulous, provident(for the future interests), measured, peruse, chary, deliberate, calculating, wary, circumspect, vigilant, discreet, wile, judicious, sapient
 
-careless: haphazard, imprudent, cavalier, impetuous, remiss(negligent), insouciance, perfunctory, slapdash, blithe(II), precipitant(haste), cursory(haste)
+careless: haphazard, imprudent, cavalier, impetuous, remiss(negligent), insouciance, perfunctory, slapdash, blithe(II), precipitant(haste), cursory(haste), scrutiny
 
 risk, danger: jeopardize, peril
 
@@ -332,7 +334,7 @@ reserved: reticent, inscrutable, dispassionate, stolid, taciturn, self-effacing,
 
 calm: aplomb, unflappable, impervious, equanimity, collected, composed, composure, ataraxy, serenity, tranquility, imperturbable
 
-kind, mild: affable, genial, amiable, debonair, halcyon, complaisant(obliging)
+kind, mild: affable, genial, amiable, debonair, halcyon, complaisant(obliging), balmy
 
 unconcerned: sangfroid(cold blood), nonchalant, indifferent, callous
 
@@ -396,7 +398,7 @@ harassment: attrition, filibuster
 
 irritate: incense, exasperate, rile, perturb, badger, nettlesome, vex
 
-stir up: foment, importune, tumult, galvanize, goad, inflammatory, [incense]incendiary, instigate, provoke
+stir up: foment, importune, tumult, galvanize, goad, inflammatory, [incense]incendiary, instigate, provoke, innervate
 
 beg: importune, beseech, crave, entreat, implore, supplicate, solicitous, inquisitive, prying, snoopy
 
@@ -404,7 +406,7 @@ powerful, strong: puissant, magnate, baron = tycoon, personage,
 
 potential: latent, abeyant, [lurker]lurking, dormant, quiescent
 
-harmful: insidious(hidden), deleterious, pernicious, nocuous, internecine, lacerate(deeply hurt), treacherous(hidden), pyrrhic(victory not worthwhile), detrimental, virulent(<-virus), pest: "plague" -> pestilent
+harmful: insidious(hidden), deleterious, pernicious, nocuous, internecine, lacerate(deeply hurt), treacherous(hidden), pyrrhic(victory not worthwhile), detrimental, virulent(<-virus), pest: "plague" -> pestilent, bane
 
 smelly: fetid, malodorous, fusty, noisome, putrid, stinking
 
@@ -426,9 +428,9 @@ frustrated: crestfallen, unnerved, prostrate, dishearten, demoralize
 
 drug: anodyne, soporific, panacea(cure-all)
 
-confuse: nonplussed, confound, flummox, bewildering
+perplex, confuse: nonplussed, confound, flummox, bewilder, obfuscate, muddle
 
-indirect, ambiguous: tortuous, equivocal, prevaricate, circuitous, oblique, subterfuge(excuse), detour, [nebula]nebulous
+indirect, ambiguous: tortuous, equivocal, prevaricate, circuitous, oblique, subterfuge(excuse), detour, [nebula]nebulous, serpentine("like a snake")
 
 refer, imply: allude, advert, intimate
 
