@@ -119,7 +119,7 @@ venire(come) -> parvenu(arriviste)
 
 punctum(point) -> punctual(keeping to time) -> punctilious(fastidious)
 
-pungere("to prick, sting") -> compunction(uneasy)
+pungere("to prick, sting") -> compunction(uneasy), poignant(painful), pungent(caustic)
 
 turgid(boring) | torpor(inactivity)
 
@@ -176,3 +176,29 @@ enervate(weaken) | innervate(stimulate)
 vadere("go") -> invade | pervade(pass through)
 
 pervasive(exist everywhere) | prevailing(usual, common)
+
+ponder(think carefully) | ponderous(dull, heave)
+
+salus("health") -> salubrious = salutary = salutiferous(healthy)
+
+redolent(remindful, aromatic) | indolent(lazy)
+
+tonic(healthy) | toxic(poisonous)
+
+ability | debility(weakness)
+
+sit -> sedentary(settled), sedulous(diligent)
+
+gest "gather" -> digest, congest(prevent)
+
+agere "drive" -> exact, exigent(demanding)
+
+lugubrious(sorrow) | lucrative(prolific)
+
+plicare "fold" -> ply -> pliant, pliable
+
+converse(talk, opposite) -> conversant(known, familiar), conversation
+
+gullible(easily duped) | guile(cunning deceit) -> guileless
+
+stationary(immobile) | stationery(things used for writing)
