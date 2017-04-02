@@ -214,13 +214,13 @@ complaint: carp, grumble, grouse, cavil, nitpick, quibble
 
 beat: fell, lambast
 
-criticise: upbraid, censure, rebuke, chastise, admonish, castigate, reproach, pillory, vituperate, impugn, objurgate, polemic, decry, excoriate, broadside, belabor, disparage, fulminate, reprove, reprimand, reprehend, stricture, slam, slur,
+criticise: upbraid, censure, rebuke("chop wood"), chastise, admonish, castigate, reproach, pillory, vituperate, impugn, objurgate, polemic, decry, excoriate("strip off the skin"), broadside, belabor, disparage, fulminate, reprove, reprimand, reprehend, stricture, slam, slur,
 
-reject: spurn, snub(boycott), repudiate, gainsay, rebuff, repulse, demur,
+reject: spurn, snub(boycott), repudiate, gainsay, rebuff, repulse, demur, dismiss
 
-reject, clarify: debunk, belie(2), refute, confute, disabuse, controvert, gainsay, rebut,
+reject, clarify: [bunk: nonsense]debunk, belie(2), refute, confute, disabuse, controvert, gainsay, rebut,
 
-defame: calumny, denigrate, debase, derogative, vilify, debase, bismirch, malign, derogate, diatribe, besmirch, stigma, disfigure,
+defame: calumny, denigrate, debase, derogative, vilify, bismirch, malign, derogate, diatribe, besmirch, stigma, disfigure,
 
 embarrass: chagrin, mortify, discomfit(II), abash, disconcert, abash(<-astound)
 
@@ -312,7 +312,7 @@ regret: bemoan, rectification, expiation, atonement, deplore, lament, grieve, be
 
 mourn, sympathize: console, commiserate, compassionate
 
-demanding: martinet(observing), fastidious, meticulous, exacting, punctilious, exigent, painstaking, scrupulous, [plumbum, Pb]plumb
+demanding: martinet(observing), fastidious, meticulous, punctilious, exigent, painstaking, scrupulous, [plumbum, Pb]plumb
 
 secret: furtive, insidious, surreptitious, abscond, decamp, sly, stealthy,
 
@@ -364,7 +364,7 @@ learned: erudite, pundit, witty, figurative, sagacious, cerebral, versed
 
 known, updated: cognizant, conversant, abreast(in line)
 
-awkward, hard: inept, bumbling, clumsy, maladroit, ponderous, flounder, obtuse(ant. acute), conundrum, travail, operose, taxing, onerous
+awkward, hard: inept, bumbling, clumsy, maladroit, ponderous, flounder, obtuse(ant. acute), conundrum, travail, operose, taxing, onerous, exacting
 
 strive, struggle: strain
 

@@ -83,7 +83,7 @@ vicare(substitute) -> vicar(priest) -> vicarious(deligated)
 
 zenith <-> nadir
 
-disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved)
+disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved) | indifferent(without care)
 
 mettlesome(brave) | meddlesome(intrusive)
 
