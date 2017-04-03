@@ -14,7 +14,7 @@ for word, struct in magoosh_words.items():
     lines = [
         '{}: {}'.format(struct['part'], struct['definition']),
         '',
-        '*{}*'.format(struct['example'] if 'example' in struct else '')
+        '> {}'.format(struct['example']) if 'example' in struct else ''
     ]
     wordbook[word] = '\n'.join(lines)
 
