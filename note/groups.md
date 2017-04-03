@@ -54,13 +54,13 @@ agree, concent: accede, acquiesce, concur, concord, congenial, consonant, congru
 
 advocate: contend, assert
 
-support: underwrite, bolster, buttress, undergird, sustain("hold up"), uphold, succor("run under"), ancillary
+support: underwrite, bolster, buttress, undergird, sustain("hold up"), uphold, succor("run under")
 
 mix, combine: conflate, amalgam, coalesce, graft, hodgepodge, chimera(distorted), synergy, mingle(mix gently), conjoin, convention, miscellaneous, assorted
 
 accuse: indite, impeach
 
-not important: picayune, negligible, immaterial, frivolous, ethereal(light, insubstantial), trifling, nominal, obviate(make unnecessary)
+not important: picayune, negligible, immaterial, frivolous, ethereal(light, insubstantial), trifling, nominal, obviate(make unnecessary), ancillary, peripheral
 
 urgent: [exact]exigent, pressing, clamant
 
@@ -116,7 +116,7 @@ decrease: plummet = plunge, precipitate
 
 lure: allure, bait, decoy("the cage"), entice, entrap, seduce, inveigle("deprive of sight"), solicit
 
-seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), servile(<-slave, servant), adulation, coax, cajule, blandish, blarney, toady
+seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), servile(<-slave, servant), [adulate]adulation, coax, cajule, blandish, blarney, toady
 
 free, exempt: defray, exonerate, impunity, emancipate, unshackle, manumit("send out from your hand"), discharge,
 
@@ -144,7 +144,7 @@ cut short: curtail,
 
 stun: stupefy, daze, benumb, petrify
 
-marvelous: staggering, prodigious, astounding, spectacular, overwhelming
+marvelous, astonishing: staggering, prodigious, astounding, spectacular, overwhelming, stunning
 
 large: capacious(able to hold lot), ample, commodious,
 
@@ -268,7 +268,7 @@ end: denouement, culminate, moribund(obsolescent), coda
 
 showy: ostentatious, tawdry, effusive, volubility, raffish, conspicuous, vulgar, blatant, patent, arriviste, parvenu, histrionic,
 
-exaggerated: bombastic, grandiloquent, magniloquent,
+exaggerated: bombastic, grandiloquent, magniloquent, braggart = egotist,
 
 not serious: facetious, frivolous, flippant, colloquial(spoken, vernacular), levity
 
@@ -494,7 +494,7 @@ refer, imply: allude, advert, intimate
 
 direct, clear: unequivocal, lucid, limpid, perspicuous, express, manifest, trenchant(sharp),
 
-dilemma: skymie, quandary
+dilemma: skymie, quandary, [predicate]predicament
 
 abandoned: pariah, derelict, outcast
 
@@ -528,4 +528,4 @@ on spot: improvise, impromptu, extemporary, offhand, unrehearsed
 
 use, take, occupy: usurp(<-use), appropriate, arrogate, assume, commandeer, preempt
 
-crescere "grow" -> accrete(increase in size), concrete(solid and real)
+depart: crumble, disintegrate

@@ -202,3 +202,7 @@ converse(talk, opposite) -> conversant(known, familiar), conversation
 gullible(easily duped) | guile(cunning deceit) -> guileless
 
 stationary(immobile) | stationery(things used for writing)
+
+adulate(seek favor) | adulterate(pollute)
+
+crescere "grow" -> accrete(increase in size), concrete(solid and real)
