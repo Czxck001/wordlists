@@ -16,4 +16,4 @@ wordbook = dict([
     if w['word'] not in old_words
 ])
 
-json.dump(wordbook, open('barron-supple.json', 'w'), indent=4)
+json.dump(wordbook, open('barron.json', 'w'), indent=4)

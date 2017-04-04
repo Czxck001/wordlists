@@ -12,7 +12,7 @@ magoosh_words = load_wordlist(magoosh_path, detailed=True)
 wordbook = {}
 for word, struct in magoosh_words.items():
     lines = [
-        '{}: {}'.format(struct['part'], struct['definition']),
+        '**{}**: {}'.format(struct['part'], struct['definition']),
         '',
         '> {}'.format(struct['example']) if 'example' in struct else ''
     ]

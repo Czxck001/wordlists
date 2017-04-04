@@ -37,4 +37,4 @@ for word, struct in upgrade_words:
             lines.append('')
     wordbook[word] = '\n'.join(lines)
 
-json.dump(wordbook, open('gre-upgrade-supple.json', 'w'), indent=4)
+json.dump(wordbook, open('gre-upgrade.json', 'w'), indent=4)
