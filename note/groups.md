@@ -24,7 +24,7 @@ fast, quick: celerity, dispatch
 
 highest: apotheosis, apogee, apex
 
-ideal, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary), quintessence("fifth essence"), paradigm
+summary, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary), quintessence("fifth essence"), paradigm
 
 universal: pervasive, omnipresent, ubiquitous, prevalent
 
@@ -152,7 +152,7 @@ small, subtle:diminutive, modicum, nuance, infinitesimal, minute = nice
 
 deprived, hopeless: bereave -> bereft, forlorn, disinherit, dispossess, divest("undress")
 
-poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, scrimpy, skimpy, [deprive]privation
+poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, scrimpy, skimpy, [prive:"isolated"->deprive]privation
 
 saving: economical, frugal, thrifty, spagring, parsimonious, stingting
 
@@ -168,7 +168,7 @@ straying: errant, aberrant, heretic, discursive, maverick, deviant, deviate, awr
 
 delay: defer, put off, waive, remit
 
-hinder: balk, thwart, preclude, impede, stymie, encumber, hold back, hobble, foil, discomfit(I), strain
+hinder: balk, thwart, preclude, impede, stymie, encumber, hold back, hobble, foil, discomfit(I), strain, inhibit
 
 prevent, ban: proscribe, sanction, debar, deter, forestall, occlude, [digest]congest
 
@@ -232,7 +232,7 @@ satire, mock: lampoon, sardonic, snide, travesty,
 
 ridicule: parody, travesty, burlesque, spoof
 
-disagree: factious, dissent, subversive, heretic, countermand, rescind, incongruous, discord, proscribe, remonstrate, row(an angry dispute), expostulate, deprecate, dissident, schism, chasm, rupture
+disagree: factious, dissent, subversive, heretic, countermand, rescind, incongruous, discord, proscribe, remonstrate, row(an angry dispute), expostulate, deprecate, dissident, schism, chasm, rupture, discrepancy
 
 oppose: antithesis, antagonism(agon: "contest")
 
@@ -319,6 +319,8 @@ secret: furtive, insidious, surreptitious, abscond, decamp, sly, stealthy,
 clever, perceptive: acumen, wit, penetration, perspicacity, astute, shrewdness
 
 fine: nicety, distinction, refinement, delicacy
+
+ideal: cachet, prestige, distinction
 
 prudent, careful: scrupulous, provident(for the future interests), measured, peruse, chary, deliberate, calculating, wary, circumspect, vigilant, discreet, wile, judicious, sapient, ponder, excogitate, heedful
 

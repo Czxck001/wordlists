@@ -83,7 +83,7 @@ vicare(substitute) -> vicar(priest) -> vicarious(deligated)
 
 zenith <-> nadir
 
-disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved) | indifferent(without care)
+disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved) | indifferent(without care, or fair)
 
 mettlesome(brave) | meddlesome(intrusive)
 
@@ -206,3 +206,39 @@ stationary(immobile) | stationery(things used for writing)
 adulate(seek favor) | adulterate(pollute)
 
 crescere "grow" -> accrete(increase in size), concrete(solid and real)
+
+quaerere "seek" -> query(doubt, ask)
+
+quaerere "seek" -> inquire(ask, find facts) -> inquisitive(too curious)
+
+quaerere "seek" -> acquire(get, learn) -> acquisitive(greedy, curious)
+
+inhibit(hold back) | inhabit(live in) | inherent = intrinsic
+
+onerous(hard) | odious(hateful)
+
+canoe(boat) | canon(standard) -> canonical(orthodox)
+
+menace(threat) -> minatory(threating)
+
+rivet(fr. nail) -> rivet(fix attention) -> riveting(attracting)
+
+digest(process food) | digress(stray)
+
+exculpate(clarify) | impunity(exemplify)
+
+volatile(unstable) | versatile(flexible)
+
+captious = carping = caviling
+
+prepare -> empire -> imperative(necessary)
+
+sacrosanct(holy) | sanctimonious(hypocrite)
+
+penury(poor) | pecuniary(of money)
+
+frangere(break) -> fract(broken) -> fraction(not whole, part) -> fractional(small, slight) | fractal | fractious(irritable; complaining)
+
+restive = restless
+
+eclectic <> catholic
