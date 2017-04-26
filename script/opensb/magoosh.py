@@ -20,4 +20,4 @@ for word, struct in magoosh_words.items():
     ]
     wordbook[word] = '\n'.join(lines)
 
-json.dump(wordbook, open('magoosh.json', 'w'), indent=4)
+json.dump(wordbook, open('magoosh.json', 'w'), indent=4, ensure_ascii=False)
