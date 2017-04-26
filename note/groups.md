@@ -16,13 +16,15 @@ advantage: ascendency, vanguard
 
 expel: relegate
 
+eager (for): pine, yearn, keen, avid
+
 special, charactorized: indigenous, endemic
 
 delete, remove, destroy: bowdlerize, squelch, efface, eradicate, expurgate, expunge, annul, obliterate, extirpate, quench(cool, solve), obliterate("remove letters"), quell, extinguish, subvert, sabotage, demonish, overthrow
 
 fast, quick: celerity, dispatch
 
-highest: apotheosis, apogee, apex
+highest: apotheosis, apogee, apex, acme
 
 summary, example: paragon, examplar, quixotic, archetype(prototype), epitome("to cut short", also. summary), quintessence("fifth essence"), paradigm
 
@@ -242,9 +244,9 @@ misuse: malapropism, solecism
 
 bold: effrontery, audacious, brazen, impudent, temerity, gall
 
-ill-tempered: petulant, peevish, sulky, splenetic, choleric, bilious
+ill-tempered: petulant, peevish, sulky, splenetic, choleric, bilious, irascible
 
-contemptuous: pejorative, deride, disprise, ridicule, invective
+contemptuous: pejorative = derogative, deride, disprise, ridicule, invective
 
 arrogant: pompous, haughty, hauteur, supercilious, autocratic, frivolous, deign, didactic(instructive), cavalier(careless), dogmatic, despot, peremptory, overweening, hubris, magisterial, bully,
 
@@ -278,8 +280,6 @@ superficial: dilettante, facile, glib, pontificate
 
 persuasive: [expand]expansive, eloquent, vocal(outspoken), potent, sonorous
 
-talktive: wordy, verbose, prolix, chatty, garrulous, loquacious, voluble, rhetoric, oratory
-
 love, friendly: enamored, cordial, rapprochement(recover friendship), affinity, comity
 
 praise: exalt, accolade, laudable, panegyric, encomium, vaunted(also boasted), approbatory(approval), comment, compliment, applaud, hail, extol, eulogy, tribute, adulation
@@ -288,7 +288,11 @@ prefer: predilection, propensity, partisan, proclivity(clivus "slope"), leaning,
 
 prejudice: partisan, jaundiced, prepossessed, tendentious
 
-pleasant: palatable, mellifluous(fluent), dolcet, piquant
+pleasant: palatable, dolcet, piquant, mellifluous
+
+talktive: wordy, verbose, prolix, chatty, garrulous, loquacious, voluble, rhetoric, oratory
+
+fluent in speech: mellifluous, voluble, glib, eloquent, prolix, loquacious
 
 favorable: blissful, beatific, propitious, auspicious, boon
 
@@ -308,7 +312,7 @@ terrible: macabre
 
 sad, sorrow: dolorous, lachrymose, doleful, lugubrious, grief, [complain]plaintive
 
-regret: bemoan, rectification, expiation, atonement, deplore, lament, grieve, bewail
+regret: bemoan(also complaining), rectification, expiation, atonement, deplore, lament, grieve, bewail
 
 mourn, sympathize: console, commiserate, compassionate
 
@@ -360,7 +364,7 @@ diligent: arduous, sedulous, assiduous, industrious, indefatigable, unflagging
 
 flexible: lithe, lissome, supple, limber, nimble
 
-skilled: adept, crack, adroit, deft, dexterous, connoisseur, versed
+skilled: adept, crack, adroit, deft, dexterous, connoisseur, raconteur, versed
 
 learned: erudite, pundit, witty, figurative, sagacious, cerebral, versed
 
@@ -394,7 +398,7 @@ unconcerned: sangfroid(cold blood), nonchalant, indifferent, callous, apathetic
 
 removed: aloof, detached, hermetic(II), secluded, cloistered, recluse, sequestered
 
-moderate, self-denying: ascetic, austere, abstain, eschew, spartan, abstemious(tem: wine), forgo, withhold, forbear
+moderate, self-denying: ascetic, austere, abstain, eschew, spartan, abstemious(tem: wine), forgo, withhold, withstand, forbear
 
 self-satisfied: smug, complacent
 
@@ -402,7 +406,7 @@ gloomy: sullen(hostile), morose, saturnine, abject(I), miserable, dismal, wretch
 
 show, illustrate: delineate, elucidate, evince, manifest, bespeak(indicate)
 
-add details: embellish, expound, elaborate,
+add details, explain: embellish, expound, elaborate,
 
 exemplify, prove: allege, adduce, cite, offer, tender, exponent
 
@@ -424,7 +428,7 @@ comply: tractable, amenable, docile, submissive
 
 yield, surrender: cede, concede, relinquish, waive, forgo, succumb
 
-reluctant: loath, deign, resignation
+reluctant: loath, deign, resignation, begrudge
 
 tolerate: inure, brook, wont
 
@@ -476,7 +480,7 @@ anger, angry: indignity, umbrage, indignant, bristle, bridle
 
 betrayal: treacherous, perfidy, duplicity, disaffected, quisling, apostate,
 
-conspire: complicit(complicity), collude(->collusion), connivance, abet
+conspire: complicit(complicity), collude(->collusion), connive, abet
 
 pollute: adulterate, taint, infect, mar
 
@@ -516,7 +520,7 @@ allocate, deligate: dispensation, dissemination, appropriate, vicarious, allot,
 
 worthy: estimable(esteem)
 
-traveling: peripatetic
+traveling: peripatetic, itinerant
 
 take in: imbibe, assimilate, incorporate
 
@@ -531,3 +535,5 @@ on spot: improvise, impromptu, extemporary, offhand, unrehearsed
 use, take, occupy: usurp(<-use), appropriate, arrogate, assume, commandeer, preempt
 
 depart: crumble, disintegrate
+
+insensible: impalpable, intangible, imponderable, indiscernable
