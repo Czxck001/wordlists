@@ -154,7 +154,7 @@ small, subtle:diminutive, modicum, nuance, infinitesimal, minute = nice
 
 deprived, hopeless: bereave -> bereft, forlorn, disinherit, dispossess, divest("undress")
 
-poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, scrimpy, skimpy, [prive:"isolated"->deprive]privation
+poor: paucity, dearth, penurious, impecunious, barren(bare), bleak, meager, indigent, destitute, exiguity, scrimpy, skimpy, pauper [prive:"isolated"->deprive]privation
 
 saving: economical, frugal, thrifty, spagring, parsimonious, stingting
 
