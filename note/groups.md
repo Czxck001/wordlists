@@ -122,7 +122,7 @@ seek favor: ingratiate, fawn, flatter, sycophant, obsequious, tout, abject(II), 
 
 free, exempt: defray, exonerate, impunity, emancipate, unshackle, manumit("send out from your hand"), discharge,
 
-limit, confine: hamper, bridle, circumscribe, stint, stringent, immure, trammel, stem, crample, shackle -> fetter, parochial(narrow minded), blinkered(narrow minded), seclude, leash, clog, curb, stricture,
+limit, confine: hamper, bridle, circumscribe, stint, stringent, immure, trammel, stem, crample, shackle -> fetter, parochial(narrow minded), blinkered(narrow minded), seclude, leash, clog, curb, stricture
 
 short: meteoric, ephemeral, transient, evanescent,
 
@@ -268,7 +268,7 @@ beginning, initial: inchoate, embryonic, incipient, nascent, gambit, genesis
 
 end: denouement, culminate, moribund(obsolescent), coda
 
-showy: ostentatious, tawdry, effusive, volubility, raffish, conspicuous, vulgar, blatant, patent, arriviste, parvenu, histrionic,
+showy: ostentatious, tawdry, effusive, volubility, raffish, vulgar, blatant, patent, arriviste, parvenu, histrionic,
 
 exaggerated: bombastic, grandiloquent, magniloquent, braggart = egotist,
 
@@ -320,7 +320,7 @@ demanding: martinet(observing), fastidious, meticulous, punctilious, exigent, pa
 
 secret: furtive, insidious, surreptitious, abscond, decamp, sly, stealthy,
 
-clever, perceptive: acumen, wit, penetration, perspicacity, astute, shrewdness
+clever, perceptive: acumen, wit, penetration, [perspicacious, not perspicuous]perspicacity, astute, shrewdness
 
 fine: nicety, distinction, refinement, delicacy
 
@@ -498,7 +498,7 @@ excuse: subterfuge, alibi, plea, pretext, malinger, palliate(II)
 
 refer, imply: allude, advert, intimate
 
-direct, clear: unequivocal, lucid, limpid, perspicuous, express, manifest, trenchant(sharp),
+direct, clear, obvious: unequivocal, lucid, limpid, perspicuous, express, manifest, trenchant(sharp), conspicuous
 
 dilemma: skymie, quandary, [predicate]predicament
 

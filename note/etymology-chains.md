@@ -27,7 +27,7 @@ objurgate(criticise) | adjudicate(make judgement) -> judicative(discreet)
 
 desiccated(dry) | dissipate(separate) | dissident(disagree)
 
-obstreperous = truculent(rude, violent) | turpitude(immoral)
+obstreperous = truculent(rude, violent) | turpitude(immoral) | tempestuous(unstable, violent)
 
 prospect = prescience = presentiment = prognostication(foresee)
 
@@ -63,7 +63,7 @@ venal(corrupt) | venial(forgived)
 
 evanescent(fleeting) | nascent, crescent(just beginning)
 
-arrant(thorough) | errant(straying) = aberrant | erratic(irregular)
+arrant(thorough) | errant(straying) = aberrant | erratic(irregular) | erotic(sexual)
 
 temarity(boldness) | timidity(timid)
 
@@ -85,7 +85,7 @@ prospective(about to happen) | perspicuous(obvious, clear) | perspective(foresee
 
 perceive -> percept(perceived) -> perceptive
 perceive -> percipient(perceiving)
-perspect -> perspective -> perspicuous
+perspect -> perspective -> perspicuous = conspicuous(obvious; remarkable)
 
 mulgare: milk -> promulgate(state or announce)
 
@@ -105,7 +105,7 @@ truncate(cut off) -> trench[cut] -> trenchant(sharp, tough, precise)
 
 reptile(climb) -> surreptitious(climb down->secret) | submissive(complaisant) | subterfuge(excuse) | substitute
 
-charity(provision of help) | chary(prudent) = wary | churlish(rude)
+charity(provision of help) | chary(prudent) = wary | churlish(rude) | cherish(love; value)
 
 felicity(happiness) | celerity(fast) | alacrity(happiness)
 
@@ -137,7 +137,7 @@ underwrite(ensure) | underscore = underline(emphasize) | undergird(support) | ov
 
 callow = gaffe = gauche(lacking social polish)
 
-anonymous | anomalous(not normal)
+anonymous | anomalous(not normal) -> anomaly(n. irregularity) | abnormal | enormity(extreme wickedness)
 
 garrulous(wordy) | gossamer(light and fragile)
 
@@ -146,8 +146,6 @@ ingenuous(frank) | ingenious(inventive) -> ingenuity(inventiveness)
 via -> deviate(stray) -> deviant(straying)
 
 concert(agreement) -> disconcert(disagreement)
-
-acquiesce(assent) | acquisitive(desiring)
 
 invent -> advent(arrival) -> adventitious(from outside; incidental)
 
@@ -184,7 +182,7 @@ sit -> sedentary(settled), sedulous(diligent) | seditious(stiring up)
 
 gest "gather" -> digest, congest(prevent)
 
-agere "drive" -> exact -> exigent(urgent; demanding) | exiguous(meager)
+agere "drive" -> exact -> exigent(urgent; demanding) | exiguous(meager) -> exiguity
 
 lugubrious(sorrow) | lucrative(prolific)
 
@@ -202,7 +200,8 @@ crescere "grow" -> accrete(increase in size), concrete(solid and real)
 
 quaerere "seek" -> query(doubt, ask)
 quaerere "seek" -> inquire(ask, find facts) -> inquisitive(too curious)
-quaerere "seek" -> acquire(get, learn) -> acquisitive(greedy, curious)
+quaerere "seek" -> acquire(get, learn) -> acquisitive(greedy, curious) | acquiesce(assent)
+perquisite: privilege
 
 inhibited(shy) <- inhibit(hold back) | inhabit(live in) | inherent = intrinsic | inherit(carry on)
 
@@ -236,7 +235,7 @@ demonstrable(provable) | demonstrative(proving, welcoming)
 
 pater("father") -> patron(customer; sponsor) -> patronize(support; condescend)
 
-provisional(temporal) | provident(thrift) | improvident(careless)
+provide -> provision(supply) -> provisional(temporal) | provident(thrift) | improvident(careless)
 
 boorish = churlish
 
@@ -262,7 +261,7 @@ chuckle = chortle(laugh)
 
 incumbent(obliged) | encumber(hold back)
 
-feit(do) -> forfeit(loss)['do beyond'] | surfeit(excess)['overdo']
+feit(do) -> forfeit(be taken away as punishment)['do beyond'] | surfeit(excess)['overdo']
 
 demur(reluctant or object) | demure(modest and shy)
 
@@ -324,7 +323,7 @@ extend -> extent(in one direction) | expand(in all directions)
 
 grad[step] (-> gradually) -> digress = divagate = diverge
 
-inure(get used to) | inert(sluggish) | inane(silly; insubstantial) | inapt = inept(unskilled)
+inure(get used to) | inert(sluggish) | inane(silly; insubstantial; vacuous) | inapt = inept(unskilled) <> adept | insipid(dull)
 
 fall -> fallacy -> fallacious(deceptive; false)
 
@@ -354,11 +353,11 @@ use -> peruse(read carefully) | usurp(steal)
 
 usurp = appropriate(n.2: take something from own use) | apprehend(arrest)
 
-arrogant -> usurp = arrogate | derogate(defame) | surrogate(replace)
+arrogant -> usurp = arrogate | abrogate(revoke, cancel) | derogate(defame) | surrogate(replace)
 
-stricture(limit; criticism) | strident(loud)
+stricture(limit; criticism) | strident(insistently loud) <- stride(step)
 
-expiation(atonement) | expatiate(speak at length) | expediate(accelerate) | extirpate(wipe out)
+expiation(atonement) | expatiate(speak at length) | expedite(accelerate) | extirpate(wipe out)
 
 pious(religious; dutiful) | space -> walk | ped: foot | stirps: root
 
@@ -378,10 +377,106 @@ malapropos(improper) -> malapropism(mispronounce) | solecism(rude; gramatically 
 
 invidious(unjust; unpleasant) | insidious(hidden but harmful)
 
-exalt(praise) | exult(be happy)
-
 lissome = lithe(flexible) | loath(disinclined) | loathe(hatred)
 
-ramble(meander, stray) | rankle(cause bitter feelings) | ribald(rude)
+rambling(indirect) <- ramble(meander, stray) | rankle(cause bitter feelings) | ribald(rude and funny)
 
 apposite(appropriate) -> apposition(juxtaposition)
+
+hedge("grasp" -> restrain) | budge("move" -> change mind)
+
+ineffable(unable to speak) | ineluctable = inevitable(unavoidable)
+
+cavil(v. carp) | peril(n. risk)
+
+expel(dismiss; drive out) | extol = exalt(praise) | exult(be happy)
+
+indefeasible(cannot be cancelled) | indefeatable
+
+impressive | impassive(expressionless)
+
+fickle(changing) | finagle(deceive)
+
+sordid = squalid | squelch(crush)
+
+machinate(conspire) | maneuver(skilled or devious act) | manipulate
+
+devious(calculating) | deviant(different, straying)
+
+travail(work hard) | travesty(misinterpretation)
+
+lassitude(fatigue, languor) | latitude(room to maneuver)
+
+languere(be weak) -> languor(n. listlessness) -> languid(listless, sluggish) -> languish(pine)
+
+curmudgeon(surly person) | conundrum(difficult problem)
+
+impalpable = intangible = imponderable = insensible
+
+levity = flippancy <- flippant = frivolous | flattery | fallacy(wrong; deception)
+
+hubble(hold back) | hubris(proud)
+
+fecund(prolific) | foible(quirk) | foment(stir) | fathom(comprehend)
+
+discrepancy(fail to match) | duplicity(deception)
+
+begrudge: resent the fact; unwilling to give
+bewilder: comfuse
+belabor: criticise
+beleaguer: beseige
+befog: puzzle
+beguile: deceive
+
+debaunchery(indulgence) | quandary(dilemma)
+
+awry: twisted, weird
+avert: avoid, prevent
+aver = avow: assert
+avid: eager, keen (for)
+antic: silly
+abate: lessen
+abash: shame, embarrass
+attest: testify
+
+vigilant: warning
+vindicate: clearfy, exemplify
+vicissitude: change worse
+virago: couragious woman
+viable: available
+vicarious: second hand
+vie: compete
+
+vitriol: bitter criticism
+vitriolic: bitter
+virulent: bitter, poisonous
+vituperate: harshly critical
+
+vilify: defame
+vindictive: vengeful
+vitiate: damage, debase
+
+laconic: concise
+limpid: clear
+lucid: clear
+
+lament: v./n. express sad
+lachrymose: sad
+lugubrious: sad, gloomy
+
+lascivious: lewd
+licentious: sexually immoral
+lucrative: profitable
+
+languid: weak, sluggish
+languish: be weakened
+lethargic: tired
+lethargy: tiredness
+lethal: deadly, harmful
+
+exasperate(make angry; make worse) | exacerbate(make worse)
+exegesis: interpret of text
+execrate = excoriate(detest, denounce, hate) |
+
+expatiate(speak at length) | expedite(accelerate) | expiate(atone)
+expound(add detail) | expunge(eliminate) = extirpate | expurgate(bowdlerize)
