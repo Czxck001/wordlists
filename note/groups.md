@@ -434,9 +434,6 @@ partisan, jaundiced, prepossessed, tendentious
 ### pleasant
 palatable, dolcet, piquant, mellifluous
 
-### talktive
-wordy, verbose, prolix, chatty, garrulous, loquacious, voluble, rhetoric, oratory
-
 ### fluent in speech
 mellifluous, voluble, glib, eloquent, prolix, loquacious
 
@@ -535,6 +532,9 @@ catholic
 
 ### empty
 volubility, palaver, pedantic(trivial), inanity, vacuous, rhetoric, discursive(depart from main point), garrulous(trivial talk)
+
+### talktive
+wordy, verbose, prolix, chatty, garrulous, loquacious, voluble, rhetoric, oratory
 
 ### lazy
 desultory, lax, remiss, slack, indolent, slothful, sluggish, lagging, procrastinating("put off until tomorrow", cras "tomorrow"), lackadaisical

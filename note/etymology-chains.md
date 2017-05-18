@@ -11,6 +11,8 @@ provident -> prudent
 a. prepare to future -> careful about result
 b. frugal
 
+provident(prudent, frugal) | provisional(temporary)
+
 odious -> anodyne
 
 commendatory <> derogatory = pejorative
@@ -23,13 +25,13 @@ contend(strive) -> contentious(likely to argue, controversy) | content (what con
 
 communicate -> munificent(generous)
 
-objurgate(criticise) | adjudicate(make judgement) -> judicative(discreet)
+objurgate(criticise) | adjudicate(make judgement) -> judicative(discreet) | subjugate(conquer)
 
-desiccated(dry) | dissipate(separate) | dissident(disagree)
+desiccated(dry) | dissipate(separate) | dissident(disagree) | diffident(not confident) |disparate(different)
 
 obstreperous = truculent(rude, violent) | turpitude(immoral) | tempestuous(unstable, violent)
 
-prospect = prescience = presentiment = prognostication(foresee)
+prospect = prescience = presentiment(bad) = prognostication(foresee)
 
 metal -> mettle -> mettlesome(couragious)
 
@@ -39,7 +41,7 @@ brow(forehead) -> browbeat(threat)
 
 tendare(stretch) -> portend(predict) -> portent(omen) -> portentous(significant, pompous, amazing)
 
-propitious(favorable) | portentous(unfavorable)
+propitious(favorable) | portentous(unfavorable) = presentimental
 
 esteem -> estimable
 
@@ -49,27 +51,27 @@ fervent -> effervescent
 
 felicity(happiness) -> infelicitous(improper)
 
-solicit[sole + licit: completely moved] (disturb): plead -> insouciance(careless, without trouble), solicitous(over attentive)
+solicit[sole + licit: completely moved] (disturb): plead -> insouciance(careless, without trouble), solicitous(meticulous; careful and willing)
 
-quasiling(betrayer) | quail(feel fear) | quell(conquer)
+quasiling(betrayer) | quail(feel fear and submission) | quell(conquer)
 
 tacit(implicit) -> taciturn(reserved)
 
 bucolic(rural) | bilious(easily irritated)
 
-mundane(ordinary) | mordant(bitter, sarcastic) | menace(threat) -> minatory(threating) | mendacity(deception)
+mundane(ordinary) | mordant(bitter, sarcastic) | menace(threat) -> minatory(threating) | mendacity(deception) -> mendacious | mendicant(begger)
 
 venal(corrupt) | venial(forgived)
 
 evanescent(fleeting) | nascent, crescent(just beginning)
 
-arrant(thorough) | errant(straying) = aberrant | erratic(irregular) | erotic(sexual)
+arrant(thorough) | errant(straying) = aberrant | erratic(irregular) | erroneous(incorrect) | erotic(sexual)
 
 temarity(boldness) | timidity(timid)
 
 ween(suppose) -> overweening(over confident)
 
-pecus(cattle) -> peculium(private property) -> peculiar(special) -> pecuniary(about money) -> impecunious(poor)
+pecus(cattle) -> peculium(private property) -> peculiar(special) -> pecuniary(about money) -> impecunious(poor) = penury
 
 recount(tell story) -> raconteur(someone telling story) | connoisseur(expert)
 
@@ -79,9 +81,9 @@ vicare(substitute) -> vicar(priest) -> vicarious(deligated)
 
 zenith <> nadir
 
-disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved) | indifferent(without care, or fair) | equanimity(calm)
+disinterested(fair) | disaffected(unsatisfied) | dispassionate(reserved; objective) | indifferent(without care, or fair) | equanimity(calm)
 
-prospective(about to happen) | perspicuous(obvious, clear) | perspective(foresee, view point) = perspicacious = perceptive = percipient(insightful) | precipitant(hasty, sudden) | perpetuate(cause to continue)
+prospective(about to happen, expected) | perspicuous(obvious, clear) | perspective(foresee, view point) = perspicacious = perceptive = percipient(insightful) | precipitant(hasty, sudden) | perpetuate(cause to continue) | propitiate(placate)
 
 perceive -> percept(perceived) -> perceptive
 perceive -> percipient(perceiving)
@@ -103,7 +105,7 @@ nettlesome(annoying, or easily annoyed) | mettlesome(brave) | meddlesome(intrusi
 
 truncate(cut off) -> trench[cut] -> trenchant(sharp, tough, precise)
 
-reptile(climb) -> surreptitious(climb down->secret) | submissive(complaisant) | subterfuge(excuse) | substitute
+reptile(climb) -> surreptitious(climb down->secret) | submissive(complaisant) | subterfuge(excuse) | surrogate = substitute
 
 charity(provision of help) | chary(prudent) = wary | churlish(rude) | cherish(love; value)
 
@@ -135,7 +137,7 @@ pecuniary(about money) -> impecunious(poor) = penurious <- penury(poor)
 
 underwrite(ensure) | underscore = underline(emphasize) | undergird(support) | overlook(miss) | oversee(supervise)
 
-callow = gaffe = gauche(lacking social polish)
+callow(young and unexperienced) | gaffe = gauche(lacking social polish)
 
 anonymous | anomalous(not normal) -> anomaly(n. irregularity) | abnormal | enormity(extreme wickedness)
 
@@ -144,6 +146,7 @@ garrulous(wordy) | gossamer(light and fragile)
 ingenuous(frank) | ingenious(inventive) -> ingenuity(inventiveness)
 
 via -> deviate(stray) -> deviant(straying)
+via -> viable(able to survive -> practical; worth doing)
 
 concert(agreement) -> disconcert(disagreement)
 
@@ -164,13 +167,13 @@ bonus(good) -> bounty(reward, generosity) -> bounteous(generous)
 
 supplement(addition) | supplicate(beg) -> supplicatory(begging)
 
-enervate(weaken) | innervate(stimulate) | unnerve(make nervous) | distress(upset)
+enervate(weaken) | innervate(stimulate) | unnerve(make nervous) | distress(upset; make old)
 
 vadere("go") -> invade | pervade(pass through)
 
 pervasive(exist everywhere) | prevailing(usual, common)
 
-ponder(think carefully) | ponderous(dull, heave)
+ponder(think carefully) | ponderous(dull, heave) = banal
 
 salus("health") -> salubrious = salutary = salutiferous(healthy) | solicit(plead) -> insouciant(carefree)
 
@@ -237,11 +240,9 @@ pater("father") -> patron(customer; sponsor) -> patronize(support; condescend)
 
 provide -> provision(supply) -> provisional(temporal) | provident(thrift) | improvident(careless)
 
-boorish = churlish
-
 gerrymander(manipulate voting) | filibuster(delaying legislation)
 
-auspicious(favorable) <> sinister(suggesting evil)
+propitious = auspicious(favorable) <> sinister(suggesting evil) = portentous
 
 untenable(unsolid) | intractable(difficult to deal with)
 
@@ -273,8 +274,6 @@ solitude(alone) | solicitude(overly careful)
 
 subterfuge(excuse) | sabotage(damage) | subjugate(conquer) | surrogate(replace)
 
-objurgate(criticise) | subjugate(conquer)
-
 maudlin(emotional) | maunder(garrulously speak)
 
 inscrutable(obstruse) | unscrupulous(without principles)
@@ -283,7 +282,7 @@ humdrum(a. dull) | conundrum(n. difficult problem)
 
 complaint | complaisant(pleasing) | compliment(praise) | complacent(smug)
 
-intrepid(fearless) | turgid(pompous; swell) | turbid(muddy) | torpor(lack of energy)
+intrepid(fearless) | turgid(pompous; swell) | turbid(muddy) | torpor(lack of energy) | tepid(lukewarm, unenthusiastic) | trepidation(timidity)
 
 probity(integrity) | perfidy(treachery)
 
@@ -339,7 +338,7 @@ pli[full] -> supply -> supplicate(placate)
 
 ostendere[spread out] -> ostention(showiness) -> ostentatious(showy) | ostensible(plausible)
 
-defray(cover cost) | descry(see) = discern(recognize)
+defray(cover cost) | descry(see) = discern(recognize) | decry(criticise)
 
 barbarous["non-Greek"] = philistine["Philistine"] (uncultured)
 
@@ -347,7 +346,7 @@ divagate(digress) | variegated(various) = kaleidoscopic
 
 moral -> moralize(criticise morals of others)
 
-frugal <> prodigal = sumptuous(also: splendid)
+futile(vain, frivolous) | frugal <> prodigal = sumptuous(also: splendid)
 
 use -> peruse(read carefully) | usurp(steal)
 
@@ -357,15 +356,15 @@ arrogant -> usurp = arrogate | abrogate(revoke, cancel) | derogate(defame) | sur
 
 stricture(limit; criticism) | strident(insistently loud) <- stride(step)
 
-expiation(atonement) | expatiate(speak at length) | expedite(accelerate) | extirpate(wipe out)
+expiation(atonement) | [space]expatiate(speak at length) | expedite(accelerate) | extirpate(wipe out)
 
 pious(religious; dutiful) | space -> walk | ped: foot | stirps: root
 
 disparage(defame) | disparate(different)
 
-boorish(rude) | peevish(complaining)
+cherish = boorish(rude) | peevish(complaining) | blandish(seek favor)
 
-weary(tired) | waive(surrender; delay) | waver(hesitate)
+wary(cautious) weary(tired) | waive(surrender; delay) | waver(hesitate)
 
 illustrious = lunimous = famous
 
@@ -375,7 +374,7 @@ swindle(defraud, cheat) | dwindle(decrease)
 
 malapropos(improper) -> malapropism(mispronounce) | solecism(rude; gramatically wrong)
 
-invidious(unjust; unpleasant) | insidious(hidden but harmful)
+invective(abusive language) | invidious(unjust; unpleasant) | insidious(hidden but harmful)
 
 lissome = lithe(flexible) | loath(disinclined) | loathe(hatred)
 
@@ -417,7 +416,7 @@ levity = flippancy <- flippant = frivolous | flattery | fallacy(wrong; deception
 
 hubble(hold back) | hubris(proud)
 
-fecund(prolific) | foible(quirk) | foment(stir) | fathom(comprehend)
+fecund(prolific) | foible(quirk) | foment(stir) | fathom(comprehend) | flummox(puzzle) | fickle(changing) | futile(in vain)
 
 discrepancy(fail to match) | duplicity(deception)
 
@@ -427,17 +426,26 @@ belabor: criticise
 beleaguer: beseige
 befog: puzzle
 beguile: deceive
+bereave: deprive through death
 
 debaunchery(indulgence) | quandary(dilemma)
 
-awry: twisted, weird
+awry: twisted, wrong, straying = askew
 avert: avoid, prevent
 aver = avow: assert
+amok = amuck: out of control: run amok, go amok
 avid: eager, keen (for)
 antic: silly
 abate: lessen
+abet: help, allure, entice
 abash: shame, embarrass
 attest: testify
+allude: refer, mention indirectly | allure(tempt) | elude: escape
+
+vapid: dull, insipid
+vacuous: inane
+vanguard: leading people
+vaunted: boasted
 
 vigilant: warning
 vindicate: clearfy, exemplify
@@ -468,7 +476,7 @@ lascivious: lewd
 licentious: sexually immoral
 lucrative: profitable
 
-languid: weak, sluggish
+languid: weak, sluggish, relaxed
 languish: be weakened
 lethargic: tired
 lethargy: tiredness
@@ -480,3 +488,39 @@ execrate = excoriate(detest, denounce, hate) |
 
 expatiate(speak at length) | expedite(accelerate) | expiate(atone)
 expound(add detail) | expunge(eliminate) = extirpate | expurgate(bowdlerize)
+
+pundit(a critic or wise) | pedant(someone show off knowledge; carping) -> pedantic | patent(obvious)
+
+untrammeled(unrestrained) | unstinting(generous)
+
+divulge(reveal) | indulge(have or permit treat) | inveigle(lure)
+
+concur(agree, coincide) | succor(help)
+
+immoral | immortal
+
+indict(accuse) | entice(lure)
+
+sycophant(flatter) | sybarite(one seeking pleasures)
+
+impute(attribute bad) | impunity(exemption)
+
+pungent = mordant | redolent(evocative)
+
+expatiate(wander; speak in detail) | divagate(straying)
+
+ingenious <> genius | genuous
+
+heed(pay attention to) | hone(refine; want)
+
+myriad(large number) | modicum(small amount)
+
+sedentary(not moving) | sedulous(hard working)
+
+baleful(threating) | baneful(destructive)
+
+bridle = bristle(show anger about)
+
+gratis(free) | gratuitous(not necessary)
+
+genius -> genial(good-natured; mild) | genteel(well-mannered; pretentious) <- gentle
